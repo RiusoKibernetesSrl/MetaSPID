@@ -1,0 +1,11 @@
+C:\Users\Domenico\source\repos\MetaSPID\Test\bin\Debug\Test.exe.config
+C:\Users\Domenico\source\repos\MetaSPID\Test\bin\Debug\Test.exe
+C:\Users\Domenico\source\repos\MetaSPID\Test\bin\Debug\Test.pdb
+C:\Users\Domenico\source\repos\MetaSPID\Test\bin\Debug\MetaSPID.dll
+C:\Users\Domenico\source\repos\MetaSPID\Test\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Domenico\source\repos\MetaSPID\Test\bin\Debug\MetaSPID.pdb
+C:\Users\Domenico\source\repos\MetaSPID\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\Domenico\source\repos\MetaSPID\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Domenico\source\repos\MetaSPID\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\Domenico\source\repos\MetaSPID\Test\obj\Debug\Test.exe
+C:\Users\Domenico\source\repos\MetaSPID\Test\obj\Debug\Test.pdb

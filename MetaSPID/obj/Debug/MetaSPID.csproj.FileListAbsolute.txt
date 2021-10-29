@@ -1,0 +1,16 @@
+C:\Users\Domenico\source\repos\MetaSPID\MetaSPID\obj\Debug\MetaSPID.csproj.CoreCompileInputs.cache
+C:\Users\Domenico\source\repos\MetaSPID\MetaSPID\bin\Debug\MetaSPID.dll
+C:\Users\Domenico\source\repos\MetaSPID\MetaSPID\bin\Debug\MetaSPID.pdb
+C:\Users\Domenico\source\repos\MetaSPID\MetaSPID\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Domenico\source\repos\MetaSPID\MetaSPID\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Domenico\source\repos\MetaSPID\MetaSPID\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\Domenico\source\repos\MetaSPID\MetaSPID\bin\Debug\System.Security.Permissions.dll
+C:\Users\Domenico\source\repos\MetaSPID\MetaSPID\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Domenico\source\repos\MetaSPID\MetaSPID\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Domenico\source\repos\MetaSPID\MetaSPID\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\Domenico\source\repos\MetaSPID\MetaSPID\bin\Debug\System.Security.Permissions.xml
+C:\Users\Domenico\source\repos\MetaSPID\MetaSPID\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Domenico\source\repos\MetaSPID\MetaSPID\obj\Debug\MetaSPID.csproj.CopyComplete
+C:\Users\Domenico\source\repos\MetaSPID\MetaSPID\obj\Debug\MetaSPID.dll
+C:\Users\Domenico\source\repos\MetaSPID\MetaSPID\obj\Debug\MetaSPID.pdb
+C:\Users\Domenico\source\repos\MetaSPID\MetaSPID\obj\Debug\MetaSPID.csprojAssemblyReference.cache
