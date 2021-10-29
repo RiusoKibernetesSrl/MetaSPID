@@ -1,0 +1,61 @@
+# This repository adheres to the publiccode.yml standard by including this 
+# metadata file that makes public software easily discoverable.
+# More info at https://github.com/italia/publiccode.yml
+
+publiccodeYmlVersion: '0.2'
+categories:
+  - application-development
+description:
+  it:
+    features:
+      - Creazione Certificato con chiave privata
+      - Firma Xades del metadata
+    genericName: MetaSPID
+    longDescription: |
+      Libreria per la generazione dei metadata SPID, secondo specifiche AGID.
+
+       La libreria, secondo un input di dati,  riferiti all'Ente utilizzatore, genera sia il certificato che  il metadata già firmato con la chiave privata del certificato precedentemente creato.
+
+      Il set di dati iniziali, sono tutti i dati riferiti all'Ente, obbligatori
+      per la generazione del certificato e di conseguenza del metadata.
+
+
+      Al momento, la versione 1.0 della libreria, supporta un set standard di
+      attributi, compresi gli attributi per il nodo EIDAs. 
+
+
+      ​
+
+        
+    shortDescription: Generazione Metadata SPID
+developmentStatus: beta
+it:
+  conforme:
+    gdpr: true
+    lineeGuidaDesign: false
+    misureMinimeSicurezza: false
+    modelloInteroperabilita: true
+  countryExtensionVersion: '0.2'
+  piattaforme:
+    anpr: false
+    cie: false
+    pagopa: false
+    spid: true
+legal:
+  license: Apache-2.0
+localisation:
+  availableLanguages:
+    - it
+  localisationReady: true
+maintenance:
+  contacts:
+    - email: dgallo@kibernetes-rc.it
+      name: Domenico Gallo
+  type: internal
+name: Generazione Metadata -SPID
+platforms:
+  - windows
+releaseDate: '2021-01-10'
+softwareType: standalone/other
+softwareVersion: '1.0'
+url: 'https://github.com/RiusoKibernetesSrl/GenerazioneMetadataSPID.git'
